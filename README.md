@@ -1,4 +1,4 @@
-# top100-chrome-extension
+# ESA/Hubble Top 100 Images Chrome extension
 
 This extension takes a random image from our collection of 100 best images
 and renders it when the user opens a new browser tab. In the lower left corner
