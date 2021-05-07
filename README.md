@@ -47,11 +47,11 @@ git clone https://github.com/encisosystems/top100-chrome-extension
 
 ### Main feature overview ###
 
-Our extension modifies the new tab of the Google Chrome browser to render 
-an image from the Top 100 collection from the ESA / Hubble site.
-The images are obtained with a query to an API that provides the information 
-in XML format from which the image title and the url of the resource 
-are extracted.
+Our [extension](https://chrome.google.com/webstore/detail/esahubble-top-100-images/nkhniebockeoppojmcbcgphpmpdladgo) 
+modifies the new tab of the Google Chrome browser to render an image from the 
+Top 100 collection from the ESA/Hubble [site](https://esahubble.org/). The images 
+are obtained with a query to an API that provides the information in XML format 
+from which the image title and the url of the resource are extracted.
 
 ### Unpacked extension ###
 
