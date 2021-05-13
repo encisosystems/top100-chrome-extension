@@ -1,6 +1,6 @@
 const titleElement = document.querySelector('#title');
 const creditElement = document.querySelector('#copyright')
-const className = 'imageEsa';
+const className = 'imageTop100';
 
 function getRandomInt(min, max) {
   min = Math.ceil(min);
@@ -19,7 +19,7 @@ function createImageFromJSON(image) {
   return img;
 }
 
-function test() {
+function getImagesFromJSON() {
   fetch('https://esahubble.org/images/archive/top100/d2d/')
     .then(res => res.json())
     .then((out) => {
@@ -52,4 +52,3 @@ function getImagesFromXMLFile() {
 }
 
 getImagesFromXMLFile();
-// test();
