@@ -45,7 +45,7 @@ Clone the repository, and update your origin url:
 git clone https://github.com/encisosystems/top100-chrome-extension
 ```
 
-### Main feature overview ###
+### Main feature ###
 
 Our [extension](https://chrome.google.com/webstore/detail/esahubble-top-100-images/nkhniebockeoppojmcbcgphpmpdladgo) 
 modifies the new tab of the Google Chrome browser to render an image from the 
